@@ -1,3 +1,5 @@
+NOTE: This is just a fork of https://github.com/michaelklishin/tls-gen so that we can ensure the master branch doesn't change on us
+
 ## TLS (SSL, x.509) Certificate Generator
 
 `tls-gen` is an OpenSSL-based tool that generates self-signed x.509 certificates that are
